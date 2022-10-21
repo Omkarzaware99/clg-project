@@ -1,0 +1,11 @@
+About
+Golden Globe Awards, any of the awards presented annually by the Hollywood Foreign Press Association (HFPA) in recognition of outstanding achievement in motion pictures and television during the previous year. Within the entertainment industry, the Golden Globes are considered second in importance both to the Academy Awards (for film) and to the Emmy Awards (for television), and the televised awards ceremony is a comparably lavish affair.
+
+Method
+The data were extracted from Awards' list page.
+
+Inspiration
+Which nominee has received the most awards overall or in a single year?
+Which work has received the most awards in a event?
+Which country received the most awards at a ceremony and overall?
+Who has received the most awards in a event or overall?
